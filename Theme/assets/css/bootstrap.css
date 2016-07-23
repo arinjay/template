@@ -343,9 +343,9 @@ img {
 }
 
 .img-responsive {
-  display: block;
-  height: auto;
-  max-width: 100%;
+    display: block;
+    max-width: 64%;
+    height: 160px;
 }
 
 .img-rounded {
